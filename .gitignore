@@ -1,0 +1,22 @@
+# Virtual Environment
+.venv/
+
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Dataset
+data/contracts/
+
+# Generated Outputs
+data/outputs/
+
+# Vector Database
+chroma_db/
+
+# IDE
+.vscode/
+.idea/
