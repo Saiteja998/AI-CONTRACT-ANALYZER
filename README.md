@@ -39,14 +39,14 @@ JSON Output
 - Groq
 - PyMuPDF
 
-## Project Structure
-(show your folder tree)
+
 
 ## Installation
 pip install -r requirements.txt
 
 ## Run
 streamlit run app.py
+replace your groq api key at [.env example]
 
 ## Sample Output
 
